@@ -13,6 +13,12 @@ img {
   margin: 0 auto;
 }
 
+nav a {
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 figcaption{
   text-align: center;
   font-size: 12px;
@@ -40,8 +46,3 @@ div{
   padding: 20px;
 }
 
-div a {
-  padding-left: 10px;
-  padding-right: 10px;
-  
-}
